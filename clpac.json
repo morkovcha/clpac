@@ -1,0 +1,11 @@
+{
+    "package": {
+        "name": "clpac",
+        "language": "C",
+        "version": "0.01",
+        "repo": "github:mrdimentry/clpac"
+    },
+    "subdirectories": [
+        "src"
+    ]
+}

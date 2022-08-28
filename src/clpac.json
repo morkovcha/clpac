@@ -1,0 +1,8 @@
+{
+    "package:clpac": {
+        "sources": [
+            "*.c",
+            "clpjson/*.c"
+        ]
+    }
+}
