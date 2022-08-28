@@ -1,3 +1,6 @@
+// Copyright (C) 2022-2023 56software
+// SPDX-License-Identifier: GPL-3.0
+
 #include "lexer.h"
 
 #include <ctype.h>
